@@ -1,1 +1,1 @@
-content of the file 1.2972478144972809e+308
+content of the file 1.04323385822137e+308
